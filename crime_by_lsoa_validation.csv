@@ -1,0 +1,16 @@
+metrica_validacao,valor
+total_linhas,13490604
+null_lsoa_code,0
+null_borough,0
+null_major_category,0
+null_minor_category,0
+null_value,0
+null_year,0
+null_month,0
+valores_negativos,0
+registros_zerados,10071505
+meses_invalidos,0
+ano_minimo,2008
+ano_maximo,2016
+qtd_boroughs_unicos,33
+qtd_categorias_principais,9
